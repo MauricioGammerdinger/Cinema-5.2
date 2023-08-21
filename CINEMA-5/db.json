@@ -1,0 +1,130 @@
+{
+    "categorias": [
+        {
+            "id": 1,
+            "titulo": "Terror"
+        },
+        {
+            "id": 2,
+            "titulo": "Aventura"
+        },
+        {
+            "id": 3,
+            "titulo": "Ação"
+        },
+        {
+            "id": 4,
+            "titulo": "Romance"            
+        }
+    ],
+    "filmes": [
+        {
+            "id": 1,
+            "descricao": "Pânico",
+            "duracao": "2h 00m",
+            "ano": "2022",
+            "indicacao": "16 anos",
+            "imagePath": "/assets/filmes/Terror/Panico.jpg",
+            "categoriaId": 1
+        },
+        {
+            "id": 2,
+            "descricao": "O Exorcista do Papa",
+            "duracao": "1h 55m",
+            "ano": "2023",
+            "indicacao": "16 anos",
+            "imagePath": "/assets/filmes/Terror/Papa.jpg",
+            "categoriaId": 1
+        },
+        {
+            "id": 3,
+            "descricao": "Atividade Paranormal 4",
+            "duracao": "1h 35m",
+            "ano": "2012",
+            "indicacao": "16 anos",
+            "imagePath": "/assets/filmes/Terror/Paranormal4.jpg",
+            "categoriaId": 1
+        },
+        {
+            "id": 4,
+            "descricao": "Avatar 2",
+            "duracao": "3h 00m",
+            "ano": "2022",
+            "indicacao": "16 anos",
+            "imagePath": "/assets/filmes/Aventura/Avatar2.jpg",
+            "categoriaId": 2
+        },
+        {
+            "id": 5,
+            "descricao": "Venom",
+            "duracao": "2h 20m",
+            "ano": "2018",
+            "indicacao": "14 anos",
+            "imagePath": "/assets/filmes/Acao/007.jpeg",
+            "categoriaId": 2
+        },
+        {
+            "id": 6,
+            "descricao": "Pantera Negra",
+            "duracao": "2h 14m",
+            "ano": "2018",
+            "indicacao": "10 anos",
+            "imagePath": "/assets/filmes/Aventura/Pantera.jpg",
+            "categoriaId": 2
+        },
+        {
+            "id": 7,
+            "descricao": "007 - Sem Tempo para Morrer",
+            "duracao": "2h 43m",
+            "ano": "2021",
+            "indicacao": "14 anos",
+            "imagePath": "/assets/filmes/Acao/007.jpeg",
+            "categoriaId": 3
+        },
+        {
+            "id": 8,
+            "descricao": "King`s Man - A Origem",
+            "duracao": "2h 00m",
+            "ano": "2021",
+            "indicacao": "16 anos",
+            "imagePath": "/assets/filmes/Acao/Kings.jpg",
+            "categoriaId": 3
+        },
+        {
+            "id": 9,
+            "descricao": "Os Mercenários 2",
+            "duracao": "1h 42m",
+            "ano": "2012",
+            "indicacao": "16 anos",
+            "imagePath": "/assets/filmes/Acao/Mercenarios.jpg",
+            "categoriaId": 3
+        },
+        {
+            "id": 10,
+            "descricao": "A culpa e das Estrelas",
+            "duracao": "2h 05m",
+            "ano": "2014",
+            "indicacao": "16 anos",
+            "imagePath": "/assets/filmes/Romance/Culpa.jpg",
+            "categoriaId": 4
+        },
+        {
+            "id": 11,
+            "descricao": "Belo Desastre",
+            "duracao": "2h 05m",
+            "ano": "2022",
+            "indicacao": "10 anos",
+            "imagePath": "/assets/filmes/Romance/BeloDesastre.jpg",
+            "categoriaId": 4
+        },
+        {
+            "id": 12,
+            "descricao": "Amor de Redenção",
+            "duracao": "1h 34m",
+            "ano": "2022",
+            "indicacao": "16 anos",
+            "imagePath": "/assets/filmes/Romance/Redencao.jpg",
+            "categoriaId": 4
+        }
+    ]
+}
